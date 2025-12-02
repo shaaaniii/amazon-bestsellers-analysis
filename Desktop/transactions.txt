@@ -1,2 +1,0 @@
-Account Number: 1233456777, Transaction Type: Deposit, Amount: 34444
-Account Number: 1233456777, Transaction Type: Withdraw, Amount: 56000
